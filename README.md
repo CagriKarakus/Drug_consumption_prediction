@@ -81,7 +81,7 @@ Projeyi doğrudan Colab üzerinden çalıştırmak için:
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ---
 
