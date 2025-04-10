@@ -19,10 +19,6 @@ drug-consumption-prediction/
 ├── drug_consumption_prediction.ipynb
 ├── drug_consumption_prediction.pdf
 ├── requirements.txt
-├── data/
-│   └── README.md
-├── figures/
-│   └── (görseller buraya)
 ```
 
 ## Kullanılan Veri Seti
